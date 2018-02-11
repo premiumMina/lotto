@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lotto.iml" filepath="$PROJECT_DIR$/.idea/modules/lotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lotto_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lotto_main.iml" group="lotto" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lotto_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lotto_test.iml" group="lotto" />
+    </modules>
+  </component>
+</project>
